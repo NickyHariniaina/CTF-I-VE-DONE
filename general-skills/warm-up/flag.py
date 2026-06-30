@@ -1,0 +1,1 @@
+print('picoCTF{61}')
